@@ -39,8 +39,8 @@ public class TambahBuku extends AppCompatActivity {
                 txtISBN.setText("");
                 txtPenerbit.setText("");
 
-//                Snackbar mySnackbar = Snackbar.make(findViewById(R.id.test),"Data Berhasil Disimpan",Snackbar.LENGTH_SHORT);
-//                mySnackbar.show();
+                Snackbar mySnackbar = Snackbar.make(findViewById(R.id.tambah_layout),"Data Berhasil Disimpan",Snackbar.LENGTH_SHORT);
+                mySnackbar.show();
 
             }
         });

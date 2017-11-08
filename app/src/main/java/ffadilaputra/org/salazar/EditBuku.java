@@ -12,7 +12,7 @@ import android.widget.EditText;
 import ffadilaputra.org.salazar.model.Buku;
 
 /**
- * Created by wirasyafri on 07/11/2017.
+ * Created by ffadilaputra on 07/11/2017.
  */
 
 public class EditBuku extends AppCompatActivity {
