@@ -3,147 +3,147 @@
 
     <item
         is-multidex="false"
-        jar="/home/ffadilaputra/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha7/constraint-layout-solver-1.0.0-alpha7.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
-        <dex dex="/home/ffadilaputra/android-sqlite-example/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-alpha7_7670e4c5836f0ff7ee21b9e0ca64f957454eb3cf.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ffadilaputra/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="/home/ffadilaputra/android-sqlite-example/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_1cfdb93a21addc9ede033298812f2da259178aae.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ffadilaputra/.android/build-cache/15f1db39798b8731f8fdc0ffb02093d0850326ec/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="/home/ffadilaputra/android-sqlite-example/app/build/intermediates/pre-dexed/debug/classes_4bf1120749f83cb80e061f4015029965dc770143.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ffadilaputra/.android/build-cache/32c463f52a737075b4dfb7ea99cc6a52e58f63d9/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/ffadilaputra/android-sqlite-example/app/build/intermediates/pre-dexed/debug/classes_538759d63193d2508afb7c435edfc9ed5dff76a8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ffadilaputra/.android/build-cache/7db58c05c3b0c680c22e3349587aa82f93bf8067/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
-        <dex dex="/home/ffadilaputra/android-sqlite-example/app/build/intermediates/pre-dexed/debug/classes_4458b57e387cf7ccfaecdd2a4a93e633b4c9702f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ffadilaputra/.android/build-cache/9cc58a99bc521d6ed59c4f3fe0e2c7c7e30c6345/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="/home/ffadilaputra/android-sqlite-example/app/build/intermediates/pre-dexed/debug/classes_1914096fffaf9a75a313e3ad89f8b7572f063bf0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ffadilaputra/.android/build-cache/5b705419f5e64e1841cb2232a2cce6465c7cddc6/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="/home/ffadilaputra/android-sqlite-example/app/build/intermediates/pre-dexed/debug/classes_bee08be9f3439e311b7dca975fc3db776a08975b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ffadilaputra/.android/build-cache/70080091ab3806905a02621c382b4f61b9325ec9/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
-        <dex dex="/home/ffadilaputra/android-sqlite-example/app/build/intermediates/pre-dexed/debug/classes_616697ed68119881ea33eb171215f632d8f076b7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ffadilaputra/.android/build-cache/cc896a78c71c96a42dba3ba5ab2a168eee8b9897/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="/home/ffadilaputra/android-sqlite-example/app/build/intermediates/pre-dexed/debug/classes_38e18257c3fe81c39bb19988d8024f927bebc91f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ffadilaputra/.android/build-cache/f246b6916fef287878696a427c9244331296e89e/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="/home/ffadilaputra/android-sqlite-example/app/build/intermediates/pre-dexed/debug/classes_282b7952afe0ac984a187379dedfa77d928e45ac.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ffadilaputra/.android/build-cache/ce32e1719c04f2a66b3dfe6570cf29393552b80a/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="95519720620b553f63afc789beba9ad582807f7c">
-        <dex dex="/home/ffadilaputra/android-sqlite-example/app/build/intermediates/pre-dexed/debug/classes_fe080c3336614faf5a97163b0ec5f2fd7e104394.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ffadilaputra/.android/build-cache/a4f9c11c88a63374d437e5e0f6dca5e6b37d9f4a/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="/home/ffadilaputra/android-sqlite-example/app/build/intermediates/pre-dexed/debug/classes_f363b401e760aefcfa2be394489f8843d4369d02.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ffadilaputra/.android/build-cache/7d7641416a3966c5a7c3fcea5f549751e36e77c9/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="/home/ffadilaputra/android-sqlite-example/app/build/intermediates/pre-dexed/debug/classes_dcd2528f6cb6e50ba4ba7876fb2cd5cb2fd77dcd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ffadilaputra/.android/build-cache/59aff405358a2ae564b05d49aae6076f55bf15be/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
-        <dex dex="/home/ffadilaputra/android-sqlite-example/app/build/intermediates/pre-dexed/debug/classes_029f254cd87250698362bef2e65ec53fd3d9ef80.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ffadilaputra/.android/build-cache/82d97cd6eebf0a91f1f6b335210d53667a562210/output/jars/classes.jar"
+        jar="C:\Users\mkhamdank\.android\build-cache\6327eca060cad982501ae74a38b2726269147d8e\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="07e07903922250dabf50c7d131d6fa069a050305">
-        <dex dex="/home/ffadilaputra/android-sqlite-example/app/build/intermediates/pre-dexed/debug/classes_26ccf9859b24d19ca25975d83376ce28b8984f22.jar" />
+        <dex dex="C:\Users\mkhamdank\AndroidStudioProjects\android-salazar\app\build\intermediates\pre-dexed\debug\classes_d723a6685bb64ca2d03420632a2fdde3cfb40407.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/ffadilaputra/.android/build-cache/2683928c0ed6c3f3649cdb66438e6f935f4fd565/output/jars/classes.jar"
+        jar="C:\Users\mkhamdank\.android\build-cache\e22934bf8e8fe87ae39a2617382aa41eee5d4c7d\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="/home/ffadilaputra/android-sqlite-example/app/build/intermediates/pre-dexed/debug/classes_946d7e0b49fdc66abd9d180cae34bdafd22720bd.jar" />
+        <dex dex="C:\Users\mkhamdank\AndroidStudioProjects\android-salazar\app\build\intermediates\pre-dexed\debug\classes_6fb0a48b3d5ad7a853f97906349cce2ec47c9616.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mkhamdank\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\mkhamdank\AndroidStudioProjects\android-salazar\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_99dd0c3e438c15c930178f9d86b55fbdbf54fd92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mkhamdank\.android\build-cache\dfa3aacfad0a395abcf3c8283423294a853acbb1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\mkhamdank\AndroidStudioProjects\android-salazar\app\build\intermediates\pre-dexed\debug\classes_a40331ac7661db7b60a3741f3c9d5499c9d83d93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mkhamdank\.android\build-cache\bc5fe8001dca3e99116371572d3b2077030d6c16\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\mkhamdank\AndroidStudioProjects\android-salazar\app\build\intermediates\pre-dexed\debug\classes_3b33f67a48a5623a0b58e5e783160c5dc1810726.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mkhamdank\.android\build-cache\7f7ecb00c8fb4579a7c5ba4e9b6b42ac52d1561f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\mkhamdank\AndroidStudioProjects\android-salazar\app\build\intermediates\pre-dexed\debug\classes_7d4946fd755407da0fab60aaabc2e367ce4121d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mkhamdank\.android\build-cache\957ad78aaff894cc24dd5eca71753501554eebf0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\mkhamdank\AndroidStudioProjects\android-salazar\app\build\intermediates\pre-dexed\debug\classes_6335701a98f12ca84ac146e4c9b0c6ef7b039cb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mkhamdank\.android\build-cache\85de7da4f1c2653a314a6f3ee135dc3e25ee0108\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\mkhamdank\AndroidStudioProjects\android-salazar\app\build\intermediates\pre-dexed\debug\classes_fcc9b7c0406d2731028733bb008d15ed652f9218.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mkhamdank\.android\build-cache\6f8ab23fb0ef3c41bb68ef604e7630c8090c342e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\mkhamdank\AndroidStudioProjects\android-salazar\app\build\intermediates\pre-dexed\debug\classes_dca9c55f08bd0bc5aef1614a7d5f59c9a2c44418.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mkhamdank\.android\build-cache\166841823ed56d70c789e1b1caf7c73fdd12f695\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\mkhamdank\AndroidStudioProjects\android-salazar\app\build\intermediates\pre-dexed\debug\classes_5bb0b22491af82f4b26155ac295d26b883b9af2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mkhamdank\.android\build-cache\7d179363875fd781817cb6568fe51af1d0655330\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\mkhamdank\AndroidStudioProjects\android-salazar\app\build\intermediates\pre-dexed\debug\classes_6f3061d1a75a747776745ae819b5470a8b169e37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mkhamdank\.android\build-cache\baedca92bd83e7e9f726a1f4f410c9183eae2bab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\mkhamdank\AndroidStudioProjects\android-salazar\app\build\intermediates\pre-dexed\debug\classes_c17065352f0a9debbc6a312c6f7c4260bbb8516e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mkhamdank\.android\build-cache\afbb961b544b7b8bb20d709cdb4074787d27e2db\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\mkhamdank\AndroidStudioProjects\android-salazar\app\build\intermediates\pre-dexed\debug\classes_9e4b1ce03a5edc50855206f9e238b2eba4f9e906.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mkhamdank\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="C:\Users\mkhamdank\AndroidStudioProjects\android-salazar\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha7_fecc73f7b2fa8ec04121497c523a9a812aec2b23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mkhamdank\.android\build-cache\6edb4b944dd187652d8724b0a6e55de2ef627b6f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="C:\Users\mkhamdank\AndroidStudioProjects\android-salazar\app\build\intermediates\pre-dexed\debug\classes_8ab09786afdc03d0b6675c997cd1eb1a6a8d21af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mkhamdank\.android\build-cache\efb2032c2cb3ff8396293c37fc65be499b641d7a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\mkhamdank\AndroidStudioProjects\android-salazar\app\build\intermediates\pre-dexed\debug\classes_e05aadd345e9ca84d44379ad76860487d4dcce9b.jar" />
     </item>
 
 </items>
